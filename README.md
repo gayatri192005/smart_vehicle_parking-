@@ -14,17 +14,17 @@ This system automates vehicle parking by using an ultrasonic sensor to detect th
 ## Circuit Diagram
 ### Connections
 1. Ultrasonic Sensor (HC-SR04)
-VCC to 5V on Arduino
-GND to GND
-Trig to Pin 9 on Arduino
-Echo to Pin 10 on Arduino
+- VCC to 5V on Arduino
+- GND to GND
+- Trig to Pin 9 on Arduino
+- Echo to Pin 10 on Arduino
 
-2.Servo Motor
-Signal to Pin 11 on Arduino
-VCC to 5V on Arduino
-GND to GND
+2. Servo Motor
+- Signal to Pin 11 on Arduino
+- VCC to 5V on Arduino
+- GND to GND
 
 3. Buzzer and LED
-Buzzer positive lead to Pin 12, negative to GND
-LED positive lead to Pin 13, negative to GND (through a resistor) 
+- Buzzer positive lead to Pin 12, negative to GND
+- LED positive lead to Pin 13, negative to GND (through a resistor) 
   
